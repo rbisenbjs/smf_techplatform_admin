@@ -1,0 +1,7 @@
+[2019-07-20 05:50:13] name.INFO: {"_token":"qWRU61hu9W2f8roy5CGfpVbBMGpypt3jNMhvaLBW","name":{"default":"Dashboard","hi":"Dashboard","mr":"Dashboard"},"categoryType":"Form"} [] []
+[2019-07-20 07:54:27] name.INFO: {"status":"success","data":{"_token":"qWRU61hu9W2f8roy5CGfpVbBMGpypt3jNMhvaLBW","name":{"default":"AxAXZXZX","hi":"xZx","mr":"AS"},"categoryType":"Form","id":"5d316030385c231a480077e6"},"msg":"Category edited successfully","code":200} [] []
+[2019-07-20 07:56:09] name.INFO: {"status":"success","data":{"catId":"5d316030385c231a480077e6","_token":"qWRU61hu9W2f8roy5CGfpVbBMGpypt3jNMhvaLBW"},"msg":"Category deleted successfully","code":200} [] []
+[2019-07-20 07:57:48] name.INFO: {"status":"success","data":{"catId":"5d316030385c231a480077e6","_token":"qWRU61hu9W2f8roy5CGfpVbBMGpypt3jNMhvaLBW"},"msg":"Category deleted successfully","code":200} [] []
+[2019-07-20 07:57:48] name.INFO: {"status":"success","data":{"catId":"5d316030385c231a480077e6","_token":"qWRU61hu9W2f8roy5CGfpVbBMGpypt3jNMhvaLBW"},"msg":"Category deleted successfully","code":200} [] []
+[2019-07-20 08:57:29] name.INFO: {"_token":"qWRU61hu9W2f8roy5CGfpVbBMGpypt3jNMhvaLBW","name":{"default":"test 1","hi":"nhgsdasdasd","mr":"sasfsf"},"categoryType":"Reports"} [] []
+[2019-07-20 08:57:57] name.INFO: {"status":"success","data":{"_token":"qWRU61hu9W2f8roy5CGfpVbBMGpypt3jNMhvaLBW","name":{"default":"test 1","hi":"nhgsdasdasd yyyyyyyyy","mr":"sasfsf"},"categoryType":"Reports","id":"5d32d779385c231a480077e8"},"msg":"Category edited successfully","code":200} [] []

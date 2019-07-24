@@ -1,0 +1,4 @@
+[2019-07-20 11:38:02] name.INFO: {"_token":"7r8I3l42AMLXO6j267dhedNlDeOwszDrNNrzmTAK","name":"e type 1","associatedForms":["5c5d580cd503a356883cd536","5c5d7e2ad503a35fd425b3a4","5c651256d503a339b4270409"]} [] []
+[2019-07-20 11:44:03] name.INFO: {"_token":"7r8I3l42AMLXO6j267dhedNlDeOwszDrNNrzmTAK","name":"e type 12","associatedForms":["5c5d580cd503a356883cd536","5c5d7e2ad503a35fd425b3a4","5c651256d503a339b4270409"],"id":"5d32fd1a385c231a480077e9"} [] []
+[2019-07-20 11:45:24] name.INFO: {"_token":"7r8I3l42AMLXO6j267dhedNlDeOwszDrNNrzmTAK","name":"e type 12","associatedForms":["5c5d580cd503a356883cd536","5c5d7e2ad503a35fd425b3a4","5c651256d503a339b4270409"],"id":"5d32fd1a385c231a480077e9"} [] []
+[2019-07-20 11:46:40] name.INFO: {"status":"success","data":{"etypeId":"5d32fd1a385c231a480077e9","_token":"7r8I3l42AMLXO6j267dhedNlDeOwszDrNNrzmTAK"},"msg":"Event Type deleted successfully","code":200} [] []
